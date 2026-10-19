@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "scripts": {
+        "start": "tsx index.ts",
+        "check": "tsc --noEmit index.ts"
+    }
+}
